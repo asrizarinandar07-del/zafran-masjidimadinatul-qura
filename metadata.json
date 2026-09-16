@@ -1,0 +1,6 @@
+{
+  "name": "Zafran menuju Ke Masjid Madinatul Qura",
+  "description": "Game petualangan labirin seru membantu Zafran dan kucing kesayangannya melewati berbagai variasi labirin dinamis untuk menuju ke Masjid Madinatul Qura.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
